@@ -2,7 +2,7 @@
 
 Text2ESQuery enhances the querying process of Elasticsearch (ES) by converting natural language queries into ES query language. This system aims to improve user experience and query accuracy by integrating Prompt Engineering techniques. It accepts natural language queries as input and translates them into precise ES queries using sophisticated Prompt Engineering, ensuring accurate and relevant search results.
 
-![Text2ESQuery](example.gif)
+![Text2ESQuery](Text2ESQuery-video.gif)
 
 ## Features
 
