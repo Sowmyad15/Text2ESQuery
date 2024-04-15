@@ -1,2 +1,19 @@
 # Text2ESQuery
-Text2ESQuery is a project that simplifies querying in Elasticsearch by translating natural language queries into Elasticsearch query language. It enhances user experience and query accuracy through Prompt Engineering techniques, making Elasticsearch more accessible to a wider range of users. The system accepts natural language queries, converts them into precise ES queries, executes them against the Elasticsearch database, and presents relevant sample records in a clear, organized manner. It also provides visualizations to aid in understanding the retrieved data. Text2ESQuery's unique approach to simplifying NoSQL database querying sets it apart from similar systems designed for SQL databases, like LangChain's SQL Database Module. It showcases the potential for leveraging large language models (LLMs) for simplifying querying processes in various NoSQL databases beyond just Elasticsearch.
+
+Text2ESQuery enhances the querying process of Elasticsearch (ES) by converting natural language queries into ES query language. This system aims to improve user experience and query accuracy by integrating Prompt Engineering techniques. It accepts natural language queries as input and translates them into precise ES queries using sophisticated Prompt Engineering, ensuring accurate and relevant search results.
+
+## Features
+
+- Accepts natural language queries and converts them into Elasticsearch query language.
+- Improves user experience and query accuracy through Prompt Engineering techniques.
+- Executes generated ES queries against the Elasticsearch database.
+- Retrieves relevant sample records and presents them in a clear and organized manner.
+- Provides visualizations to aid users in understanding the retrieved data.
+
+## Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/your-username/Text2ESQuery.git
+   ```
