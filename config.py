@@ -1,5 +1,5 @@
-ES_PASS="au-70MrSRtdDD1M9U=-I"
-ES_ID="elastic"
+ES_PASS="Your ES Password"
+ES_ID="Your ES ID"
 
 syntax=""" {
     "data": [{ record1},{record2}.....]}"""
