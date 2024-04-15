@@ -1,5 +1,5 @@
-﻿elasticsearch ==8.11.1
-numpy ==1.26.2
-openai ==1.14.2
-pandas ==2.2.1
-streamlit ==1.29.0
+﻿elasticsearch == 8.11.1
+numpy == 1.26.2
+openai == 1.14.2
+pandas == 2.2.1
+streamlit == 1.29.0
